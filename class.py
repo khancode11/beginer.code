@@ -4,3 +4,4 @@ class Persion:
         self.name = name
 jeffrey = Persion("Jeffrey")
 print("%s name is %s" % (Persion.name, jeffrey.name))
+print("test")
